@@ -28,7 +28,7 @@ custom_proxy_group=🔵Telegram`url-test`.*`https://www.youtube.com`3,,50
 custom_proxy_group=▶️YouTube`url-test`.*`https://www.youtube.com`30,,50
 custom_proxy_group=🤖OpenAI`url-test`.*`https://www.youtube.com`60,,50
 custom_proxy_group=🗨️Discord`url-test`.*`https://www.youtube.com`300,,50
-custom_proxy_group=🐦Twitter`url-test`.*`https://www.youtube.com
+custom_proxy_group=🐦Twitter`url-test`.*`https://www.youtube.com`999999,,50
 custom_proxy_group=🎮Steam`url-test`.*`https://www.youtube.com`999999,,50
 custom_proxy_group=👾Twitch`url-test`.*`https://www.youtube.com`-1,,50
 
