@@ -23,16 +23,18 @@ custom_proxy_group=🎯Director`select`[]DIRECT
 custom_proxy_group=🛑Adblocker`select`[]REJECT
 custom_proxy_group=🛡️Privacy`select`[]REJECT
 
-custom_proxy_group=0`url-test`.*`https://www.youtube.com`0,,50
-custom_proxy_group=3`url-test`.*`https://www.youtube.com`3,,50
-custom_proxy_group=30`url-test`.*`https://www.youtube.com`30,,50
-custom_proxy_group=60`url-test`.*`https://www.youtube.com`60,,50
-custom_proxy_group=300`url-test`.*`https://www.youtube.com`300,,50
-custom_proxy_group=empty`url-test`.*`https://www.youtube.com
+custom_proxy_group=📙Reddit`url-test`.*`https://www.youtube.com`0,,50
+custom_proxy_group=🔵Telegram`url-test`.*`https://www.youtube.com`3,,50
+custom_proxy_group=▶️YouTube`url-test`.*`https://www.youtube.com`30,,50
+custom_proxy_group=🤖OpenAI`url-test`.*`https://www.youtube.com`60,,50
+custom_proxy_group=🗨️Discord`url-test`.*`https://www.youtube.com`300,,50
+custom_proxy_group=🐦Twitter`url-test`.*`https://www.youtube.com
+custom_proxy_group=🎮Steam`url-test`.*`https://www.youtube.com`999999,,50
+custom_proxy_group=👾Twitch`url-test`.*`https://www.youtube.com`-1,,50
 
 custom_proxy_group=🦽Manual`select`.*
 
-custom_proxy_group=✅SELECTOR`select`[]♻️gstatic`[]0`[]3`[]30`[]60`[]300`[]empty`[]☁️cloudflare`[]🦽Manual`[]🎯Director`[]🛑Adblocker`[]🛡️Privacy
+custom_proxy_group=✅SELECTOR`select`[]♻️gstatic`[]📙Reddit`[]🔵Telegram`[]▶️YouTube`[]🤖OpenAI`[]🗨️Discord`[]🐦Twitter`[]🎮Steam`[]👾Twitch`[]☁️cloudflare`[]🦽Manual`[]🎯Director`[]🛑Adblocker`[]🛡️Privacy
 
 enable_rule_generator=true
 overwrite_original_rules=true
